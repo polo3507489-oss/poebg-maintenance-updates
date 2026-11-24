@@ -1,0 +1,2 @@
+# Signed bytes must survive Windows and runner checkouts unchanged.
+release-input/assets/** -text
