@@ -1,0 +1,34 @@
+{
+  "assets": [
+    {
+      "name": "PoeBG-friends-autoupdate-2026.11.24.1.zip",
+      "size": 6528400,
+      "sha256": "76168a6624a43ca7b71a2df6507767ee46e5eebeb6a50018243a9161c2eda4be"
+    },
+    {
+      "name": "PoeBG-maintenance.zip",
+      "size": 6526852,
+      "sha256": "7c188e6a9ed5f9cd8cf461bb0b9cb263f39edc6348d2950313ddadeb18d18afb"
+    },
+    {
+      "name": "PoeBG-update-log-collector-1.1.0.zip",
+      "size": 13221,
+      "sha256": "754f681f1c5eb75dad60cd83ee0ae065c299e546cf6e706b3f6d7bb1e499ceef"
+    },
+    {
+      "name": "update.json",
+      "size": 14060,
+      "sha256": "fcc2d2bc01976cdfae05cb159c914ae72c4223aa4bbe3f46ccafa1e70c58f485"
+    },
+    {
+      "name": "update.sig",
+      "size": 384,
+      "sha256": "afc71367151d04be87ad0e95e69d5628b256ba11251b3f096c714433f98eb37e"
+    }
+  ],
+  "mode": "smoke",
+  "title": "PoeBG maintenance 2026.11.24.1",
+  "notes": "Automation upload verification; existing stable release remains unchanged.",
+  "schema": 1,
+  "version": "2026.11.24.1"
+}

@@ -1,0 +1,362 @@
+{
+  "notes": "修正原版 5.6.4.1 更新相容性，支援跟隨循環區塊重排與資源載入修復；保留角色設定，並附上收集工具 1.1.0。",
+  "size": 6526852,
+  "package": "PoeBG-maintenance.zip",
+  "schema": 1,
+  "version": "2026.11.24.1",
+  "files": [
+    {
+      "path": "使用說明.txt",
+      "sha256": "751bc71b0f2a180ee83d06b2491302126e0095dbb1a65f355319c9006f9ce8d1"
+    },
+    {
+      "path": "PoeBG-更新紀錄收集.exe",
+      "sha256": "c059292a0871210dc7ee48a2f2741dc01a8093dfa8d2bf051ca8d1f00615824d"
+    },
+    {
+      "path": "PoeBG.exe",
+      "sha256": "63cddcccdaa160b93633dbe708ac809e0d21422b57e5c8af056648e58a22302c"
+    },
+    {
+      "path": "PoeBGFriendsUpdater.exe",
+      "sha256": "9d94bb032f6300b154dce99977d67632c555b111ff002f98701ee4990eeed132"
+    },
+    {
+      "path": "PoeBGUpdateGuard.exe",
+      "sha256": "2ea31d42a925e765022440f74cbe006ea84f6e0fb5640a31a6b9228f62f82312"
+    },
+    {
+      "path": "Updater.exe",
+      "sha256": "fed06615674510e66362605bfb114272a7259fbdbd06c11eb07364eefaa30219"
+    },
+    {
+      "path": "WebView2Loader.dll",
+      "sha256": "a9a09232c25805323d4cfb3fc8f545a190a9c8a99c93262ea99d0b88df99ec90"
+    },
+    {
+      "path": "Affix/Cards.data",
+      "sha256": "bcfeda3c29a20498162bec3fab4ae4ee55aae8f0e8b045c17c06fdaf6e091240"
+    },
+    {
+      "path": "Affix/ItemAffix-Backup.txt",
+      "sha256": "d8a6cc3dc1a25d60540ca226c6b5c225ba78ab966843be1b0091bb16bcb6b559"
+    },
+    {
+      "path": "Affix/ItemAffix-en.txt",
+      "sha256": "560b8a974b47aac1d8c32f06088cf41fd4344d3ae7388446e1aadc687ad7af39"
+    },
+    {
+      "path": "Affix/ItemAffix-tmp.txt",
+      "sha256": "94b93b8c1dd40c05b9f1e21bab333175f2f6e4ab1913b3c0ecd836797ea92576"
+    },
+    {
+      "path": "Affix/ItemAffix.txt",
+      "sha256": "a0a3bf08119840bc46d4460ed35f2b17c994f2b39b64820fc8dc84d34968769d"
+    },
+    {
+      "path": "Affix/ItemAffix2-Backup.txt",
+      "sha256": "b7bcd863c4b4522140cc3406c2bfea596b8c858e7b1e20919599d2ad33e37e15"
+    },
+    {
+      "path": "Affix/ItemAffix2-en.txt",
+      "sha256": "d975497882b12efd9e582bd08fd4da31aa4b7a36045b866f3a874e52f75506ec"
+    },
+    {
+      "path": "Affix/ItemAffix2.txt",
+      "sha256": "79d74d9ca9c9587738cad4281aba1a3d0788ac22e1c695abe2a718c08a886d37"
+    },
+    {
+      "path": "Lib/Microsoft.Web.WebView2.Core.dll",
+      "sha256": "958efdb7f13a6d1f3079756c96956cc96cf713ae46fa085c8b1e7f44316a4f7e"
+    },
+    {
+      "path": "Lib/Microsoft.Web.WebView2.WinForms.dll",
+      "sha256": "a7b8be525030f19d9e88c6e684bca053dc7a3b080c31c3d9428f7438e7b6768f"
+    },
+    {
+      "path": "Lib/Newtonsoft.Json.dll",
+      "sha256": "3598cccad5b535fea6f93662107a4183bfd6167bf1d0f80260436093edc2e3af"
+    },
+    {
+      "path": "Lib/PoeBG.MemoryReadSupport.dll",
+      "sha256": "7a77bc01f005df9b4437c90df6d9283c289ed3a0d2c92f3d28b5c2e1c92a4cfa"
+    },
+    {
+      "path": "Lib/PoeBG.UpdateSupport.dll",
+      "sha256": "1914d6f29b7f625093ca0439f83de7ea7b5a9736a984af872aae27ffe47e95f5"
+    },
+    {
+      "path": "Lib/SharpDX.Direct2D1.dll",
+      "sha256": "9f4b5e240cb42ce903082f81633bba0c781c1e684fd5903bc3915e3805b5e83e"
+    },
+    {
+      "path": "Lib/SharpDX.dll",
+      "sha256": "a0af255ea4b09a8cdb995b8c6fd1075e46f098e23c2351c974e6ded9b8b620cf"
+    },
+    {
+      "path": "Lib/SharpDX.DXGI.dll",
+      "sha256": "bc0243134c93c55ea105d0e9c2a43b6030e973290d0a061cf3a61986a2268a88"
+    },
+    {
+      "path": "Lib/SharpDX.Mathematics.dll",
+      "sha256": "4c9615496970ea84320e2a6e99f8fb828e3c7790384df5585d93fc368885d94e"
+    },
+    {
+      "path": "Lib/WebView2Loader.dll",
+      "sha256": "462b36fd1be6ca9f7563466a89e57c41ef4a4def3e0a84fa885d203aea4a3aaf"
+    },
+    {
+      "path": "PoeBG-maintenance/dnlib-LICENSE.txt",
+      "sha256": "ca38b47f5ec8b884d20d42a82b680e100df4edb4a5b45639349fcf2780651a16"
+    },
+    {
+      "path": "PoeBG-maintenance/dnlib.dll",
+      "sha256": "97ef5328d1d1703924c48d9cd1d45b7227fe3836e116dcded623b6a0dbd52c23"
+    },
+    {
+      "path": "PoeBG-maintenance/Patch.exe",
+      "sha256": "6c15fd9e3355735282c03da19f4b3bb995c338641798b4856e91eb36a10c4ea6"
+    },
+    {
+      "path": "PoeBG-maintenance/PoeBG.MemoryReadSupport.dll",
+      "sha256": "7a77bc01f005df9b4437c90df6d9283c289ed3a0d2c92f3d28b5c2e1c92a4cfa"
+    },
+    {
+      "path": "PoeBG-maintenance/PoeBG.UpdateSupport.dll",
+      "sha256": "1914d6f29b7f625093ca0439f83de7ea7b5a9736a984af872aae27ffe47e95f5"
+    },
+    {
+      "path": "PoeBG-maintenance/Verify.exe",
+      "sha256": "79471b6ecc4ee9f95e20eb35a02c257a515217488e36777a272ae44aae685af3"
+    },
+    {
+      "path": "PoeBG-maintenance/WebView2-LICENSE.txt",
+      "sha256": "0af8f1b807512aae39c2ac1aa4d0cae65cabecb6fd554b8439a5162a0d6eca55"
+    },
+    {
+      "path": "PoeBG-maintenance/WebView2-NOTICE.txt",
+      "sha256": "106423785c5b7eba0a8e61d1837f2132e9c828e20ad530f565d981c1df60dd90"
+    },
+    {
+      "path": "PoeBG-maintenance/reactor/0Harmony.dll",
+      "sha256": "0de0118c8f1d4408de389ca33b46d2ff7778f3a8541b430cae729ec913d899c7"
+    },
+    {
+      "path": "PoeBG-maintenance/reactor/de4dot.blocks.dll",
+      "sha256": "5802ca01941f7c3dcc8040a33fc2329cd9f6e2c191fbd20dfef3b3bc2415a505"
+    },
+    {
+      "path": "PoeBG-maintenance/reactor/dnlib.dll",
+      "sha256": "648950f725fb0320e09c52dcaf81764916df96dc62e7429ba67daea0acb784ea"
+    },
+    {
+      "path": "PoeBG-maintenance/reactor/ICSharpCode.SharpZipLib.dll",
+      "sha256": "fe33a4f464683996be9418e22c432a47722f8d8a61cb71f8f12290d73c3418fe"
+    },
+    {
+      "path": "PoeBG-maintenance/reactor/LICENSE.txt",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    {
+      "path": "PoeBG-maintenance/reactor/NETReactorSlayer.CLI.exe",
+      "sha256": "83db3f79e63997c53432564e0b1313ef236e6dbc63f9294f0f516fd9bd9bd8c0"
+    },
+    {
+      "path": "PoeBG-maintenance/reactor/NETReactorSlayer.CLI.exe.config",
+      "sha256": "8f794b816176ea91ad765f5ee0e485341575fc597eb4095e2f51bb5e3c04a3bd"
+    },
+    {
+      "path": "PoeBG-maintenance/reactor/NETReactorSlayer.Core.dll",
+      "sha256": "7e87be893e72f6aa901adfff8950a5f4984cef7b741b477ea283e98544fb610d"
+    },
+    {
+      "path": "PoeBG-maintenance/reactor/NETReactorSlayer.De4dot.dll",
+      "sha256": "f377fe4c6f1f8a689bfcfc19557a62b82c20c511eefe4b2ae971212c21bbf0c2"
+    },
+    {
+      "path": "PoeBG-maintenance/reactor/System.Buffers.dll",
+      "sha256": "accccfbe45d9f08ffeed9916e37b33e98c65be012cfff6e7fa7b67210ce1fefb"
+    },
+    {
+      "path": "PoeBG-maintenance/reactor/System.Memory.dll",
+      "sha256": "8e76318e8b06692abf7dab1169d27d15557f7f0a34d36af6463eff0fe21213c7"
+    },
+    {
+      "path": "PoeBG-maintenance/reactor/System.Numerics.Vectors.dll",
+      "sha256": "1d3ef8698281e7cf7371d1554afef5872b39f96c26da772210a33da041ba1183"
+    },
+    {
+      "path": "PoeBG-maintenance/reactor/System.Resources.Extensions.dll",
+      "sha256": "44f80df0ac1ac8a08d5961db9ae57acc68ac35510e86ea21a1416dd7c08733a5"
+    },
+    {
+      "path": "PoeBG-maintenance/reactor/System.Runtime.CompilerServices.Unsafe.dll",
+      "sha256": "66409f670315afe8610f17a4d3a1ee52d72b6a46c544cec97544e8385f90ad74"
+    },
+    {
+      "path": "PoeBG-maintenance/reactor/System.Threading.Tasks.Extensions.dll",
+      "sha256": "2c9cad6410e37e44fa73cccb576f418184f1ae5a0a257e165a136bdaa941a0c6"
+    },
+    {
+      "path": "PoeBG-maintenance/source/Build.ps1",
+      "sha256": "88fd7b2e48e90472309b35dae436a13729b65d570be839652be71d29192a76ce"
+    },
+    {
+      "path": "PoeBG-maintenance/source/CharacterScanPatch.cs",
+      "sha256": "7aa8f92845140638c1fbbe494269a80eb331f5fe75375799c5361dac35dfa496"
+    },
+    {
+      "path": "PoeBG-maintenance/source/CloseFollowLayoutVerification.cs",
+      "sha256": "8d921d36934f52709e16c14050de7ef10dd055253678edd6aed91e4d9eebaf9b"
+    },
+    {
+      "path": "PoeBG-maintenance/source/CloseFollowOptionsPatch.cs",
+      "sha256": "ae178d641db385a58436e37a329e91a5022038f826282e238c8d176fa1f66b1b"
+    },
+    {
+      "path": "PoeBG-maintenance/source/CloseFollowOptionsTemplate.cs",
+      "sha256": "4d9330402cc9433f9a804ce6fed1737594f724f0c99de14c8f0edbd341f254fc"
+    },
+    {
+      "path": "PoeBG-maintenance/source/CloseFollowOptionsVerification.cs",
+      "sha256": "cb73f118ccd06c5991f6a8013215313ee0ca9b40558fae82f09a46319fcb3d28"
+    },
+    {
+      "path": "PoeBG-maintenance/source/CloseFollowPatch.cs",
+      "sha256": "3e91257b493e9633e5b42b6e83790700ca7c6dbff0e6a7bdc5b6bf813a411edd"
+    },
+    {
+      "path": "PoeBG-maintenance/source/CloseFollowStabilityVerification.cs",
+      "sha256": "fb47212f6b285bd2d37ceb3513b953466a8ff55cbb3e232b68dcfd2ec805c472"
+    },
+    {
+      "path": "PoeBG-maintenance/source/CloseFollowTemplate.cs",
+      "sha256": "9633296f9d6f5057e5573957252df2d30e2b98f3b4a580aa2b96086449ee3141"
+    },
+    {
+      "path": "PoeBG-maintenance/source/CloseFollowTerrainVerification.cs",
+      "sha256": "107862321f578676f229a5a4556a372bc5e2d7bb00f91e1b18dbd30ed4f86082"
+    },
+    {
+      "path": "PoeBG-maintenance/source/CloseFollowVerification.cs",
+      "sha256": "f4719fcca38dbbd5b84536380ffc64e4e506795eb5524c5d201d6490ba9b83e6"
+    },
+    {
+      "path": "PoeBG-maintenance/source/DataToolFixes.cs",
+      "sha256": "077eb3cbb5993dda6c2af2435ac5cdec3f1cda4da5ae47a740cb9a627023b3e0"
+    },
+    {
+      "path": "PoeBG-maintenance/source/FollowMoveInputPatch.cs",
+      "sha256": "0151f2378e1003866b6a9ee85c06019ed4f9c48933467e31e042afea8c739cf1"
+    },
+    {
+      "path": "PoeBG-maintenance/source/FollowMoveInputTemplate.cs",
+      "sha256": "be4ea0f12716fb3e072f5d2e60a5faa050921a7603b3c10aaf8841909917f010"
+    },
+    {
+      "path": "PoeBG-maintenance/source/FollowMoveInputVerification.cs",
+      "sha256": "0ef11d5f93d70ee04599cc873f1efaab05002045b3ba72b2db3a391951a47aae"
+    },
+    {
+      "path": "PoeBG-maintenance/source/FontSafetyPatch.cs",
+      "sha256": "97dd088547b1bae5d0dfeff1a27323dfb4a4c339708d7b4500b33b257fabf439"
+    },
+    {
+      "path": "PoeBG-maintenance/source/FriendsUpdater.cs",
+      "sha256": "465b0738fc41d8412d62f493f163c06060a8997dda761e2c59b7d750323e012d"
+    },
+    {
+      "path": "PoeBG-maintenance/source/GameplayFixes.cs",
+      "sha256": "50ff61ef7e7465f8c63ddb174c5567f035927a28cd735d9477c6e3cf42080f1c"
+    },
+    {
+      "path": "PoeBG-maintenance/source/LegionRadarOptionsPatch.cs",
+      "sha256": "22d6488cfd7a00e88f0c1c3d0ddb57e0384b2d5f732a85d7dcd3cdd2dce61313"
+    },
+    {
+      "path": "PoeBG-maintenance/source/LegionRadarOptionsTemplate.cs",
+      "sha256": "9d4ca4c000a17a144c88d4d154fdb1c476b5e54a80bdbfe6f745cc752568129c"
+    },
+    {
+      "path": "PoeBG-maintenance/source/LegionRadarOptionsVerification.cs",
+      "sha256": "3bf37b3fb5af3b2bfd45c8bbb84aa6165d22808f1b8ad113d351dfd9e947aa6b"
+    },
+    {
+      "path": "PoeBG-maintenance/source/LegionRadarPatch.cs",
+      "sha256": "dddcd91c540e6acfcd6cb498e56b53c445d2de8e689564e03ff3b1b6e6dc66cc"
+    },
+    {
+      "path": "PoeBG-maintenance/source/LegionRadarTemplate.cs",
+      "sha256": "f77812b52eaf588b33da4f0c35c79dfbf2a3ea117bb13b6681673ce4d7d86fc3"
+    },
+    {
+      "path": "PoeBG-maintenance/source/LegionRadarVerification.cs",
+      "sha256": "2be88a0d98c612f5cf6942e10a68563f84303a4dbf1b90f18cb834b5bee74107"
+    },
+    {
+      "path": "PoeBG-maintenance/source/MemoryReadSupport.cs",
+      "sha256": "cbc784892ea80c75326f11ba90727e36703fe610f39a024c3995bff2d0535473"
+    },
+    {
+      "path": "PoeBG-maintenance/source/Patch.cs",
+      "sha256": "f27c5175acdcc76a31274bc2e576953583296513c31f0907ee7db256a2b84dd8"
+    },
+    {
+      "path": "PoeBG-maintenance/source/ReleasePublicKey.xml",
+      "sha256": "d355f07d1f2a877d0a248f5db50eb03bbfae6eadec3013071a242bd1d4914ebc"
+    },
+    {
+      "path": "PoeBG-maintenance/source/ServiceFixes.cs",
+      "sha256": "e3d0c15f5de2c0e4e435cc6a3eff5cddc1baedabafeb86086d64c628f51a5bc5"
+    },
+    {
+      "path": "PoeBG-maintenance/source/UpdateExitFixes.cs",
+      "sha256": "c0c723bd4ff932d88ea9038974448aa4bcd646577fc89d36f6609a9cd413867f"
+    },
+    {
+      "path": "PoeBG-maintenance/source/UpdateGuard.cs",
+      "sha256": "313c35ec9b442c644b514dc75a214a802e87d23bd1028c8911f05041913912aa"
+    },
+    {
+      "path": "PoeBG-maintenance/source/UpdateLogCollector.cs",
+      "sha256": "72a7c0d127ac2dc6d12e0b05684c55916da7ea809d6443c2080559eda463e0ad"
+    },
+    {
+      "path": "PoeBG-maintenance/source/UpdateSupport.cs",
+      "sha256": "1a86cb43acec50fa5c725aca70eb98d52e23680a7a9a4954657ca2be7340c0f3"
+    },
+    {
+      "path": "PoeBG-maintenance/source/UpdateSupportTests.cs",
+      "sha256": "d555842975bd1fe3bf778df2fc2741f67b8929d6697b2e7fa6e5615a524e1cdc"
+    },
+    {
+      "path": "PoeBG-maintenance/source/Verify.cs",
+      "sha256": "fa653f77734d805db606db3aaacfd2de0790f158d08f337a1f1328dcd032e85b"
+    },
+    {
+      "path": "Sounds/Beep.mp3",
+      "sha256": "cab6d10f0b0263f4c19d78f19026671836b5e609df8abe0f14d7341e644c6a18"
+    },
+    {
+      "path": "Sounds/TradeMsg.mp3",
+      "sha256": "bced6ee424121df80f79a3476b5cbdc5704c02b0d6ea9aa6a1f09ab7c9baa786"
+    },
+    {
+      "path": "Sounds/Wow.mp3",
+      "sha256": "2f2993184277d29f35a490f34aaaddc505a8fd55b95a89b7e58d5a39455da52f"
+    },
+    {
+      "path": "Tools/MapHack.exe",
+      "sha256": "2de6e516d5687689b7c95da49589307284f63b24741119d9ff5426c90b732f72"
+    },
+    {
+      "path": "Tools/MapHack.runtimeconfig.json",
+      "sha256": "89ad1ea5c9c20b6b266547ef27c0ae3840cab5642d3c2aedf06b7026245671dd"
+    },
+    {
+      "path": "Tools/oo2core_9_win64.dll",
+      "sha256": "4758c7901cbd68df1848b7afed48c1975ad59b509886c21b87c0e91d717446b5"
+    }
+  ],
+  "sha256": "7c188e6a9ed5f9cd8cf461bb0b9cb263f39edc6348d2950313ddadeb18d18afb"
+}

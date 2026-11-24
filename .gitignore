@@ -1,0 +1,8 @@
+# Never publish local signing credentials or application settings.
+private/
+*signing-key*
+Role/
+Log/
+*.ini
+*.settings
+*.log
