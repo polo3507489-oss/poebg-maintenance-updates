@@ -26,9 +26,9 @@
       "sha256": "afc71367151d04be87ad0e95e69d5628b256ba11251b3f096c714433f98eb37e"
     }
   ],
-  "mode": "smoke",
-  "title": "PoeBG maintenance 2026.11.24.1",
-  "notes": "Automation upload verification; existing stable release remains unchanged.",
-  "schema": 1,
-  "version": "2026.11.24.1"
+  "title": "PoeBG 5.6.4.1 相容修復 — 維護版 2026.11.24.1",
+  "version": "2026.11.24.1",
+  "mode": "publish",
+  "notes": "驗證自動發布流程；既有已發布版本只核對，不覆寫。",
+  "schema": 1
 }
