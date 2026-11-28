@@ -1,29 +1,25 @@
 {
-  "notes": "修正原版 5.6.4.1 更新相容性，支援跟隨循環區塊重排與資源載入修復；保留角色設定，並附上收集工具 1.1.0。",
-  "size": 6526852,
   "package": "PoeBG-maintenance.zip",
-  "schema": 1,
-  "version": "2026.11.24.1",
   "files": [
     {
       "path": "使用說明.txt",
-      "sha256": "751bc71b0f2a180ee83d06b2491302126e0095dbb1a65f355319c9006f9ce8d1"
+      "sha256": "56f1cad4e179a0bdccec30979f4160b2b12ef80a96c0e5e785898e97f0687dc1"
     },
     {
       "path": "PoeBG-更新紀錄收集.exe",
-      "sha256": "c059292a0871210dc7ee48a2f2741dc01a8093dfa8d2bf051ca8d1f00615824d"
+      "sha256": "2db6e9762aaa3ab93adca5fe418cf7bbe5263b277184ffff49dfdb3348c3dd61"
     },
     {
       "path": "PoeBG.exe",
-      "sha256": "63cddcccdaa160b93633dbe708ac809e0d21422b57e5c8af056648e58a22302c"
+      "sha256": "3a4af70162718246434775fed11fccf356206747267933bcd3551bea91ed5612"
     },
     {
       "path": "PoeBGFriendsUpdater.exe",
-      "sha256": "9d94bb032f6300b154dce99977d67632c555b111ff002f98701ee4990eeed132"
+      "sha256": "4073dba27429eba2f430bb11163a9d7c976f6d5e64b9a9de66e8623eb9365e16"
     },
     {
       "path": "PoeBGUpdateGuard.exe",
-      "sha256": "2ea31d42a925e765022440f74cbe006ea84f6e0fb5640a31a6b9228f62f82312"
+      "sha256": "7622b5826353c1b4e33969be5136ef0c12fb3488129f1bbabbba1bd3c084a600"
     },
     {
       "path": "Updater.exe",
@@ -79,11 +75,11 @@
     },
     {
       "path": "Lib/PoeBG.MemoryReadSupport.dll",
-      "sha256": "7a77bc01f005df9b4437c90df6d9283c289ed3a0d2c92f3d28b5c2e1c92a4cfa"
+      "sha256": "de90c733bc52ed0bd02fbffb9d6fbe267aaa29f748a9290686938e41ba210855"
     },
     {
       "path": "Lib/PoeBG.UpdateSupport.dll",
-      "sha256": "1914d6f29b7f625093ca0439f83de7ea7b5a9736a984af872aae27ffe47e95f5"
+      "sha256": "63ddb575226e72b42c88d9e019aabe635873ada7b0fc1c5a9c04d48d78274077"
     },
     {
       "path": "Lib/SharpDX.Direct2D1.dll",
@@ -115,19 +111,19 @@
     },
     {
       "path": "PoeBG-maintenance/Patch.exe",
-      "sha256": "6c15fd9e3355735282c03da19f4b3bb995c338641798b4856e91eb36a10c4ea6"
+      "sha256": "ab53f06f1e7a18615e8cf51f0b58cc72c97f47f255eb13cd3cf5d5a6da0f1edc"
     },
     {
       "path": "PoeBG-maintenance/PoeBG.MemoryReadSupport.dll",
-      "sha256": "7a77bc01f005df9b4437c90df6d9283c289ed3a0d2c92f3d28b5c2e1c92a4cfa"
+      "sha256": "de90c733bc52ed0bd02fbffb9d6fbe267aaa29f748a9290686938e41ba210855"
     },
     {
       "path": "PoeBG-maintenance/PoeBG.UpdateSupport.dll",
-      "sha256": "1914d6f29b7f625093ca0439f83de7ea7b5a9736a984af872aae27ffe47e95f5"
+      "sha256": "63ddb575226e72b42c88d9e019aabe635873ada7b0fc1c5a9c04d48d78274077"
     },
     {
       "path": "PoeBG-maintenance/Verify.exe",
-      "sha256": "79471b6ecc4ee9f95e20eb35a02c257a515217488e36777a272ae44aae685af3"
+      "sha256": "dabda11a70474e088eb8b9719bb7e598ec51e0b277a396b751a923294d8f5f9e"
     },
     {
       "path": "PoeBG-maintenance/WebView2-LICENSE.txt",
@@ -223,7 +219,7 @@
     },
     {
       "path": "PoeBG-maintenance/source/CloseFollowPatch.cs",
-      "sha256": "3e91257b493e9633e5b42b6e83790700ca7c6dbff0e6a7bdc5b6bf813a411edd"
+      "sha256": "1631d4b03cb29d1785840fadb4c06621797fe999c9f7e3b1d8500565939f54e0"
     },
     {
       "path": "PoeBG-maintenance/source/CloseFollowStabilityVerification.cs",
@@ -263,7 +259,7 @@
     },
     {
       "path": "PoeBG-maintenance/source/FriendsUpdater.cs",
-      "sha256": "465b0738fc41d8412d62f493f163c06060a8997dda761e2c59b7d750323e012d"
+      "sha256": "b96d37ff52345bc2c2a9d08d1e5ec9451c484d077444ed24ad45bc587b351f43"
     },
     {
       "path": "PoeBG-maintenance/source/GameplayFixes.cs",
@@ -347,7 +343,7 @@
     },
     {
       "path": "Tools/MapHack.exe",
-      "sha256": "2de6e516d5687689b7c95da49589307284f63b24741119d9ff5426c90b732f72"
+      "sha256": "5b80e636384990d505dd4d03e758b48f1d5bcfcfaacaa3f8c9029a5921a89d97"
     },
     {
       "path": "Tools/MapHack.runtimeconfig.json",
@@ -358,5 +354,9 @@
       "sha256": "4758c7901cbd68df1848b7afed48c1975ad59b509886c21b87c0e91d717446b5"
     }
   ],
-  "sha256": "7c188e6a9ed5f9cd8cf461bb0b9cb263f39edc6348d2950313ddadeb18d18afb"
+  "size": 6606396,
+  "notes": "修正原版5.6.5.3更新相容性：支援字典尋路與三參數路徑重建，保留舊版相容、貼身跟隨及戰亂開關。設定檔保留。",
+  "schema": 1,
+  "version": "2026.11.28.1",
+  "sha256": "7706f60180f5dc9b44cf18c3d0c07a374745e3857e81a6e8d4cdab9f789b0d01"
 }

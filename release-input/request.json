@@ -1,34 +1,34 @@
 {
   "assets": [
     {
-      "name": "PoeBG-friends-autoupdate-2026.11.24.1.zip",
-      "size": 6528400,
-      "sha256": "76168a6624a43ca7b71a2df6507767ee46e5eebeb6a50018243a9161c2eda4be"
+      "sha256": "414d1c3504aa2753fe768b99d381ec6d045cd7e1ca2f7d15319cacd6b3d51657",
+      "name": "PoeBG-friends-autoupdate-2026.11.28.1.zip",
+      "size": 6607944
     },
     {
+      "sha256": "7706f60180f5dc9b44cf18c3d0c07a374745e3857e81a6e8d4cdab9f789b0d01",
       "name": "PoeBG-maintenance.zip",
-      "size": 6526852,
-      "sha256": "7c188e6a9ed5f9cd8cf461bb0b9cb263f39edc6348d2950313ddadeb18d18afb"
+      "size": 6606396
     },
     {
+      "sha256": "754f681f1c5eb75dad60cd83ee0ae065c299e546cf6e706b3f6d7bb1e499ceef",
       "name": "PoeBG-update-log-collector-1.1.0.zip",
-      "size": 13221,
-      "sha256": "754f681f1c5eb75dad60cd83ee0ae065c299e546cf6e706b3f6d7bb1e499ceef"
+      "size": 13221
     },
     {
+      "sha256": "1c39fb2f3e03b79b55083ecd3b9c7f1c90462d3c5afbc292d8b83163fbfb37ec",
       "name": "update.json",
-      "size": 14060,
-      "sha256": "fcc2d2bc01976cdfae05cb159c914ae72c4223aa4bbe3f46ccafa1e70c58f485"
+      "size": 14067
     },
     {
+      "sha256": "79eabec815be72d1cad803b854f4c005cec90ae277aaac054f3e2b386a57119f",
       "name": "update.sig",
-      "size": 384,
-      "sha256": "afc71367151d04be87ad0e95e69d5628b256ba11251b3f096c714433f98eb37e"
+      "size": 384
     }
   ],
-  "title": "PoeBG 5.6.4.1 相容修復 — 維護版 2026.11.24.1",
-  "version": "2026.11.24.1",
   "mode": "publish",
-  "notes": "驗證自動發布流程；既有已發布版本只核對，不覆寫。",
+  "title": "PoeBG 5.6.5.3 相容修復 — 維護版 2026.11.28.1",
+  "version": "2026.11.28.1",
+  "notes": "修正原版 5.6.5.3 更新失敗：支援新版字典尋路及三參數路徑重建，並保留舊版陣列尋路相容。未知方法結構仍會中止安裝並保留目前版本。貼身跟隨、戰亂開關、原版更新通知及維護版自動更新保留。已通過 5.6.4.1/5.6.4.2 回歸、6854 個方法 JIT、36 項尋路、19 項按鍵生命週期與 34 項安裝/還原測試；遊戲內仍需使用者確認。朋友開啟 PoeBGFriendsUpdater.exe 即可更新，Role、INI、勞工設定及功能開關保留。第一次安裝請下載完整朋友 ZIP；另附診斷收集工具 1.1.0。",
   "schema": 1
 }
